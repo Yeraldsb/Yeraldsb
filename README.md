@@ -3,9 +3,9 @@
 <h3 align="left">A passionate web developer from Colombia</h3>
 -👩‍💻 I am currently working on becoming a backend developer <br>
 -🌱 Currently learning Java and Spring Boot <br>
--⚡ Fun fact about me ? : You would never belive it but I'm funny and a great dancer !! <br>
+-⚡ Fun fact about me ? You would never belive it but I'm funny and a great dancer !! <br>
 
-<p align="right"> <img src="https://github.com/Yeraldsb/Yeraldsb/blob/main/YeraldPeep.png" alt="yeraldsb" /> </p>
+<p align="right"> <img width="400" height="250" src="https://github.com/Yeraldsb/Yeraldsb/blob/main/YeraldPeep.png" alt="yeraldsb" /> </p>
 
 <h3 align="left">Conncet with me, I'm kinda awesome:</h3>
 <p align="left">
