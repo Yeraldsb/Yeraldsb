@@ -5,7 +5,7 @@
 -🌱 Currently learning Java and Spring Boot <br>
 -⚡ Fun fact about me ? : You would never belive it but I'm funny and a great dancer !! <br>
 
-<p align="left"> <img src="https://github.com/Yeraldsb/Yeraldsb/blob/main/YeraldPeep.png" alt="yeraldsb" /> </p>
+<p align="right"> <img src="https://github.com/Yeraldsb/Yeraldsb/blob/main/YeraldPeep.png" alt="yeraldsb" /> </p>
 
 <h3 align="left">Conncet with me, I'm kinda awesome:</h3>
 <p align="left">
