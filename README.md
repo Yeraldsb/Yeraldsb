@@ -1,6 +1,6 @@
 ### Hello world 🌎 I am Yeraldin Salazar
 
-<h1 align="center">Hi 👋, I'm Yeraldin Salazar</h1>
+<h1 align="left">I am a web developer, mother, traveler, dancer and meme philosopher</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 - ⚡ Fun fact: You would never belive it but Im funny !!
 
