@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Yeraldsb/Yeraldsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - ⚡ Fun fact: You would never belive it but Im funny !!
@@ -28,5 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeraldsb&show_icons=true&locale=en" alt="yeraldsb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeraldsb&" alt="yeraldsb" /></p>
-
--->
