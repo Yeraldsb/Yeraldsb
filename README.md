@@ -1,6 +1,6 @@
-### Hello world 🌎 I am Yeraldin Salazar
 
 <img width="250" height="300" align="right" src="https://github.com/Yeraldsb/Yeraldsb/blob/main/YeraldPeep.png" alt="yeraldsb" />
+### Hello world 🌎 I am Yeraldin Salazar
 
 <h3 align="left">A passionate web developer from Colombia</h3>
 
@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeraldsb&show_icons=true&locale=en" alt="yeraldsb" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeraldsb&" alt="yeraldsb" /></p>
