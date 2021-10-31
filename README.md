@@ -1,8 +1,10 @@
 ### Hello world 🌎 I am Yeraldin Salazar
 
-<h1 align="left">I am a web developer, mother, traveler, dancer and meme philosopher</h1>
-<h3 align="center">A passionate web developer from Colombia</h3>
-- ⚡ Fun fact: You would never belive it but Im funny !!
+<h1 align="left">I am a web developer, mother, traveler, dancer and meme philosopher🤓 !!!</h1>
+<h3 align="left">A passionate web developer from Colombia</h3>
+-👩‍💻 I am currently working on becoming a backend developer
+-🌱 Currently learning Java and Spring Boot
+-⚡ Fun fact about me ? : You would never belive it but I'm funny and a great dancer !!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeraldsb&label=Profile%20views&color=0e75b6&style=flat" alt="yeraldsb" /> </p>
 
