@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hello world 🌎 I am Yeraldin Salazar
 
-**Yeraldsb/Yeraldsb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- ⚡ Fun fact: You would never belive it but Im funny !!
 <h1 align="center">Hi 👋, I'm Yeraldin Salazar</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
+- ⚡ Fun fact: You would never belive it but Im funny !!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeraldsb&label=Profile%20views&color=0e75b6&style=flat" alt="yeraldsb" /> </p>
 
