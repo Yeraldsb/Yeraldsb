@@ -1,6 +1,5 @@
 ### Hello world 🌎 I am Yeraldin Salazar
 
-<h1 align="left">I am a web developer, mother, traveler, dancer and meme philosopher🤓 !!!</h1>
 <h3 align="left">A passionate web developer from Colombia</h3>
 -👩‍💻 I am currently working on becoming a backend developer <br>
 -🌱 Currently learning Java and Spring Boot <br>
