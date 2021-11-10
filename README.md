@@ -20,6 +20,5 @@
 
 ## 📈 My Github status 
 <span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeraldsb&show_icons=true&locale=en&layout=compact" alt="yeraldsb" /></span>
-
 <span>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=yeraldsb&show_icons=true&locale=en" alt="yeraldsb" /></span>
 
