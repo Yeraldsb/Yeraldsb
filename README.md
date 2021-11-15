@@ -1,7 +1,7 @@
 <img width="250" height="300" align="left" src="https://github.com/Yeraldsb/Yeraldsb/blob/main/YeraldPeep.png" alt="yeraldsb" />
 <h1 aling="right" > Hello world 🌎 I am Yeraldin Salazar </h1>
 
-<h3 align="left">A passionate web developer from Colombia</h3>
+<h3 align="left">A passionate junior Full Stack from Colombia</h3>
 
 -👩‍💻 I am currently working on becoming a backend developer <br>
 -🌱 Currently learning Java and Spring Boot <br>
