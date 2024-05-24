@@ -9,7 +9,7 @@
 -📬 How to reach me **yeraldinsb9412@gmail.com** <br>
 -⚡ Fun fact about me ? You would never believe it but I'm funny<br>
 
-## Connect with me, I'm kinda awesome:
+<h2 align="center"> Connect with me, I'm kinda awesome: </h2>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pamela-salazar-5bb1971b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pamela-salazar-5bb1971b0/" height="30" width="40" /></a>
 <a href="https://instagram.com/yeraldsb9412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yeraldsb9412" height="30" width="40" /></a>
