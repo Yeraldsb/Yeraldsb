@@ -6,7 +6,6 @@
 -👩‍💻 I am currently working on becoming a backend developer <br>
 -🌱 Currently learning Java and Spring Boot <br>
 -💃 I am a great dancer !! <br>
--📬 How to reach me **yeraldinsb9412@gmail.com** <br>
 -⚡ Fun fact about me ? You would never believe it but I'm funny<br>
 
 <h2 align="center"> Connect with me, I'm kinda awesome: </h2>
